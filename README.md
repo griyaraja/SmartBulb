@@ -15,9 +15,19 @@ SmartBulb numerous applications in today's connected world widely used. With the
 
  ![233768949-27c97023-4352-4878-bf7c-72a9e04752e9](https://user-images.githubusercontent.com/122549467/234851865-1304dc83-1163-4c4f-83dd-294c335bfae0.png)
 
+ # Equipments used
  
+ * IR sensor
+ * Relay 5v
+ * Bulb
+ * Capacitor
+ * BC 547 transistor
+ * Node MCU
+ * Holder,Remote
+ * Battery 9v
  
- 
- 
+
+
+
  
  
